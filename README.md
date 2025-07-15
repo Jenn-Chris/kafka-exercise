@@ -19,6 +19,9 @@ This project implements a real-time IoT data streaming system using Apache Kafka
 4. **Average Calculator** (`avg_temperature.py`) - Computes rolling 10-second temperature averages
 5. **Dashboard** (`dashboard.py`) - Streamlit-based real-time visualization interface
 
+## Screenshot 
+<img width="1763" height="992" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/19a6a950-b7d8-434a-bd82-893fb21f7970" />
+
 
 ## Running the System
 
