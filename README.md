@@ -20,7 +20,8 @@ This project implements a real-time IoT data streaming system using Apache Kafka
 5. **Dashboard** (`dashboard.py`) - Streamlit-based real-time visualization interface
 
 ## Screenshot 
-<img width="1763" height="992" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/19a6a950-b7d8-434a-bd82-893fb21f7970" />
+
+<img width="1670" height="997" alt="Screenshot" src="https://github.com/user-attachments/assets/6aaf731a-5e0f-426b-ba20-444702582547" />
 
 
 ## Running the System
